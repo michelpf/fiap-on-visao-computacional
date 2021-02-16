@@ -14,4 +14,4 @@ No Google [Colab](https://colab.research.google.com/) eles já estão instalados
 
 Utilizando técnicas de processamento de imagens para detectar bordas e contornos e assim buscar por manchas de óleo em imagens de satélite. Uma vez encontrada as manchas, também é possível estimar sua área conhecendo a escala de imagem associada.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-on-visao-computacional/blob/master/aula-borda-contornos/bordas-contornos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-on-visao-computacional/blob/master/aula-bordas-contornos/bordas-contornos.ipynb)
