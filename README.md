@@ -10,7 +10,7 @@ Aulas de Visão Computacional para programas de pós-graduação do FIAP ON
 No Google [Colab](https://colab.research.google.com/) eles já estão instalados 😄.
 
 
-## Detecção de manchas de óleo no Nordeste
+## Detecção de bordas e contornos
 
 Utilizando técnicas de processamento de imagens para detectar bordas e contornos e assim buscar por manchas de óleo em imagens de satélite. Uma vez encontrada as manchas, também é possível estimar sua área conhecendo a escala de imagem associada.
 
